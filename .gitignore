@@ -1,7 +1,11 @@
 lab_data/
-runs/
 TrackEval/
 *.pt
 __pycache__/
 .ipynb_checkpoints/
 .pytest_cache/
+data_lab21/
+
+runs/*
+!runs/nop_bai/
+runs/nop_bai/*.mp4
