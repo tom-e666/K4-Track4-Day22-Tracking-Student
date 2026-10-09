@@ -1,6 +1,6 @@
 # Báo cáo lab: chọn tracker cho 5 video
 
-**Nhóm:** Nhóm 01 **Thành viên:** Thái Phúc Tiến (2A202602873), Trần Đình Duy (2A202602631)
+**Nhóm:** Nhóm 02 **Thành viên:** Thái Phúc Tiến (2A202602873), Trần Đình Duy (2A202602631)
 
 Detector cố định: `yolo26n.pt`, ảnh 640 px, Re-ID `osnet_x0_25_msmt17`. Không đổi các mục này trong bài nộp chính.
 
